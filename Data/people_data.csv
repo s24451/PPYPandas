@@ -1,0 +1,1101 @@
+ID,Country,owns_car,owns_TV,owns_house,owns_Phone,gender,Age,income
+1,United States,Yes,Yes,Yes,Yes,Male,35.0,1235.7994748636925
+2,Canada,Yes,No,Yes,Yes,Female,42.0,955.2748240301089
+3,United Kingdom,No,Yes,No,Yes,Male,28.0,1269.5410602758377
+4,Australia,Yes,Yes,Yes,Yes,Female,39.0,1373.9207715731009
+5,Germany,Yes,Yes,Yes,Yes,Male,51.0,1134.7800479361588
+6,France,Yes,Yes,Yes,Yes,,45.0,1412.1192460366635
+7,India,No,Yes,No,Yes,Male,29.0,1721.2137474370222
+8,Brazil,Yes,Yes,Yes,Yes,Female,37.0,1397.2846483899975
+9,China,Yes,,No,Yes,Male,33.0,
+10,Japan,Yes,No,Yes,,Female,48.0,1230.1869008461103
+11,Mexico,Yes,Yes,Yes,Yes,Male,41.0,
+12,Italy,Yes,Yes,Yes,Yes,Female,36.0,1465.4967156300927
+13,Russia,Yes,Yes,Yes,Yes;,Male,53.0,1787.3937853169716
+14,Spain,Yes,Yes,Yes,Yes,Female,47.0,1859.9338210654823
+15,South Africa,Yes,No,Yes,Yes,Male,31.0,1543.6494017675495
+16,,Yes,Yes,,Yes,Female;,38.0,1372.0716996717558&
+17,Argentina,Yes,Yes,Yes,Yes,Male,43.0,1685.4946302525962
+18,Netherlands,Yes,Yes,Yes,Yes,Female,44.0,
+19,Sweden,No,Yes,Yes,,Male,30.0,
+20,Switzerland,Yes,Yes,Yes;,Yes,Female,40.0,2212.454860926349
+21,Norway,Yes,No,Yes,Yes,Male,,1308.646911252275
+22,,Yes,Yes,Yes,Yes;,Female,46.0,1586.6668793795445
+23,Finland_,Yes,Yes,Yes,Yes,Male,50.0,1685.9975528824943
+24,Belgium,Yes,Yes,Yes,Yes,Female,49.0,1559.5956779689038;
+25,Poland,Yes,Yes,Yes,Yes,Male,32.0,1888.8258321868416
+26,Turkey,Yes,No,Yes,Yes,Female,55.0,1019.0023315440535
+27,Greece,Yes,Yes,Yes,Yes,Male,54.0,1311.9113506003814
+28,Austria,Yes,Yes,Yes,Yes,Female_,56.0,2079.0350502378665
+29,Portugal,Yes,Yes,Yes,,Male,58.0,1283.773604076466
+30,Ireland,Yes,Yes_,Yes;,Yes,Female,59.0,
+31,New Zealand,Yes,Yes,Yes,Yes,Male,57.0,1915.1141736663312
+32,Singapore,Yes,Yes,Yes,Yes,Female,60.0,1302.4133876018245
+33,Hong Kong,Yes,Yes,Yes,Yes;,Male,52.0,1558.6327897751526
+34,Israel,Yes,Yes,Yes,Yes,Female,61.0,1370.6995398111692
+35,,Yes,No,Yes;,Yes,Male,62.0,796.4128143252572
+36,Chile,Yes,Yes,Yes;,Yes,Female,63.0,1604.7585597059615
+37,Peru,Yes,Yes,,Yes,Male,64.0,1880.8404423703391
+38,Egypt,Yes,Yes,Yes,Yes,Female,65.0,1106.7996340164161
+39,Indonesia,Yes,No,Yes,Yes,Male,66.0,1753.216846111862
+40,Philippines,Yes,Yes,Yes,,Female,,1355.4709958495466
+41,Thailand,Yes,Yes,Yes,Yes,Male,68.0,2130.341950738267
+42,Malaysia,Yes,Yes,Yes,Yes,Female,69.0,1928.6739587022594
+43,Vietnam,Yes,Yes,Yes,Yes,Male,70.0,851.0167353407893
+44,Saudi Arabia,Yes,Yes,Yes,Yes,Female,,1575.7151783927184
+45,United Arab Emirates&,Yes,Yes,Yes,Yes,Male;,72.0,955.6483283911787
+46,Nigeria,Yes,Yes,Yes,Yes,Female,73.0,1890.0110838532942
+47,South Africa,Yes,Yes,Yes,Yes,,74.0,1586.2943271247284
+48,Kenya,Yes;,Yes,Yes,Yes,Female,75.0,
+49,Morocco,Yes,Yes,Yes,Yes,Male,76.0,1089.504811693645
+50,Algeria,Yes,Yes,Yes,Yes,Female,,1642.4447529161985
+51,Ethiopia,Yes,Yes&,Yes,Yes,Male,78.0,1140.2770549290208
+52,Ghana,Yes,Yes,Yes,Yes,Female,79.0,1616.7596935193721
+53,Tanzania,Yes,,Yes&,Yes,Male,80.0,1162.0832274169072
+54,Senegal,Yes,Yes,Yes,Yes,Female,81.0,1186.1346886177612
+55,Uganda,Yes,Yes,Yes,Yes,Male,82.0,1653.5545094051877
+56,Tunisia,Yes,Yes,Yes,Yes,Female,83.0,1325.2406125179282
+57,Angola,Yes,Yes,Yes,Yes,Male,84.0;,1537.7718740197756
+58,Zimbabwe,Yes,Yes,Yes,Yes,Female,85.0,1360.1635525465001
+59,Zambia_,Yes,Yes,Yes,Yes,Male,86.0,1031.1266817745204
+60,Mozambique,Yes,Yes,Yes,,Female,87.0,1860.301623805215_
+61,Cameroon,Yes,Yes,Yes,Yes,Male,88.0,1098.6720689373556
+62,Ivory Coast,Yes,Yes,Yes,Yes,Female,89.0,
+63,Madagascar,Yes,Yes,Yes,Yes,Male,90.0,1243.1705123487852
+64,Myanmar,Yes,Yes,Yes,Yes,Female,91.0,1311.09253099365
+65,Mali,Yes,Yes,Yes,Yes,Male,92.0,984.8065740393461
+66,Malawi,Yes,Yes,Yes,Yes,Female,93.0,1356.462685204192
+67,,Yes,Yes,Yes,Yes,Male,94.0,1227.7328285616059
+68,Burkina Faso,Yes,Yes,Yes,Yes,Female,,1793.162655443336
+69,Somalia,Yes,Yes,Yes,Yes,Male,96.0&,1613.2518547747602
+70,Burundi,Yes,Yes,Yes,,,97.0,1645.5307887553652
+71,Togo,Yes,Yes,Yes,Yes,Male,98.0,1957.371849562412
+72,Sudan,Yes,Yes,Yes_,Yes,Female,99.0,1262.1164695965326
+73,DR Congo,,Yes,Yes,Yes,Male,100.0,1954.124589724082
+74,Argentina,Yes_,Yes,Yes,Yes,Female,101.0,921.3959523412991
+75,Canada;,Yes,Yes,Yes,Yes,Male,102.0,1371.8758586745455
+76,Australia,Yes,Yes,Yes,Yes,Female,103.0,1689.8071434555814
+77,India,Yes,Yes,Yes,Yes,Male,104.0,1476.572576689553
+78,,Yes,Yes,Yes,Yes,Female,105.0,1627.8557390406395
+79,France,Yes,Yes,Yes,Yes,Male,106.0,1071.2341624393182
+80,Brazil,Yes,Yes,Yes,Yes;,Female,107.0,1259.9994699245626
+81,United Kingdom,Yes,Yes,Yes,Yes,Male,108.0,1687.267106380284
+82,Germany,Yes,Yes,Yes,Yes,Female,109.0,1082.5156200963447
+83,China,Yes,Yes,Yes,Yes,Male,110.0,1017.3238105212126
+84,Japan,Yes,Yes,Yes,Yes,Female,111.0,1753.4588685636236
+85,Mexico,Yes,Yes,Yes,Yes,Male,112.0,1036.6634419944485
+86,Russia,Yes,,Yes,Yes,Female,113.0,1151.671952089031_
+87,Spain,Yes,Yes,Yes,Yes,Male,114.0,1182.1203356264298_
+88,South Africa,Yes,Yes,Yes;,Yes,Female,115.0,897.1557178226344
+89,South Korea,Yes,Yes,Yes,Yes,Male,116.0,1334.0371558594882
+90,Netherlands,Yes,Yes,Yes,Yes,Female,117.0,1619.7918907367307
+91,Sweden,Yes,,Yes,Yes,Male,118.0_,1822.9592613691261
+92,Switzerland,Yes,Yes,Yes,Yes,Female,119.0,1736.564164125582
+93,Norway,Yes,Yes,Yes,Yes,Male,120.0,
+94,Denmark,Yes,Yes,Yes,Yes,Female,121.0,1262.415683453568
+95,Finland,Yes,Yes,Yes,Yes,Male,,1348.1287779521615
+96,Belgium,Yes,Yes,Yes,Yes,Female,123.0,
+97,Poland,Yes,Yes,,Yes,Male,124.0,1624.8222635726593&
+98,Turkey,Yes,Yes,Yes,Yes,Female,125.0,1149.756200993576
+99,Greece,,Yes,Yes_,Yes,Male,126.0,1049.031267030732
+100,,Yes,Yes,Yes,Yes,Female,127.0,864.4482474942662
+101,Belgium,Yes,No,Yes,Yes,Male,16.0,1192.744892161942
+102,Philippines,Yes,Yes,No,No,Male,43.0,1291.7297726389493
+103,Austria,No,Yes,Yes,,,,
+104,Philippines,No,No,Yes,No,Female,55.0,1565.9483828661705
+105,Belgium,Yes,Yes,Yes,No,Female,98.0,895.2132875015766
+106,Colombia,,Yes,Yes,No,Male,33.0,982.423555999984
+107,Sweden,,Yes,No,Yes,Female,107.0,1137.3726059290263
+108,Nigeria,Yes,No,Yes,No,Female,86.0,1346.420669619532
+109,Peru,No,No_,Yes,No,Female,51.0,1471.6087000980785
+110,,No,,No,No,Male,19.0,1228.7980290876085
+111,Sweden,No,Yes,No_,Yes,Male,111.0,1187.7052341095523
+112,United States,Yes,No,No,Yes,Female,96.0,981.4052738971823
+113,Belgium,No,Yes,Yes,No,Female,65.0,988.2318016238307
+114,Mexico,No,Yes,No,Yes,Male,71.0,1775.4707808492735
+115,Italy,No,No,No,No,Female,101.0,1088.3998010193486
+116,Vietnam,No&,Yes,No,No,Male,47.0,1411.561040219134
+117,New Zealand,Yes,,No,No&,Male_,102.0,922.3762022192445
+118,Ukraine,No,Yes&,Yes,Yes,Male,104.0,1516.7793498395208
+119,Philippines,nan_,Yes,No,No,Male,18.0,693.7560543588445
+120,Pakistan,No,Yes,No,,Female,54.0,1276.3566374615064
+121,New Zealand,Yes,Yes,No,Yes,Male,61.0,1096.7657987372922
+122,Norway,No_,No,Yes,Yes,Female;,14.0,1396.3298685778493
+123,United States,No,Yes,No,No,Female,73.0,943.9414116221535
+124,Vietnam,No,Yes,No,Yes,Male,69.0,1473.9770123756048
+125,Vietnam,Yes,Yes,No,No,Female,62.0,1615.163047260539
+126,Sweden,No,No,Yes,Yes,,96.0,1282.6245101138622
+127,Pakistan,No,,Yes,No,Female,95.0,1875.4780823715175
+128,Nigeria&,Yes,Yes,Yes,No,Female,67.0,1227.072413553351
+129,Costa Rica,,No,Yes,Yes,Male,26.0,1507.7110061042688
+130,Peru,No,Yes,Yes,,Male,43.0,707.5661821204442
+131,Chile,Yes,Yes,Yes,No,Male,83.0,565.0933894388527
+132,Netherlands,No,No,No,Yes,Male,56.0,1149.1339061535396
+133,,Yes,No,No,No,Male,,969.8698031841991
+134,South Africa,No&,Yes,Yes,No,Male,77.0;,1041.8061491291069
+135,United Kingdom,Yes,Yes,No,No,Male,,1233.5204050169534
+136,Pakistan,Yes,No,No,No,Male,91.0,1397.1241898213116
+137,Sweden,,No,Yes,No,Female,61.0,1135.1291714066351
+138,Poland,No,Yes,Yes,Yes,Male,106.0,1361.3155393209274
+139,Norway,No,Yes,Yes,No,Female,86.0,1738.6168185575407;
+140,United States,No,Yes,No,No,Female,81.0,1855.8138193181094
+141,Philippines,Yes,No,Yes,No,Female,91.0,1647.916676281909
+142,Vietnam,No,No,Yes,Yes,Male,68.0;,1614.7955786025345
+143,Indonesia,Yes,Yes,Yes,No,Male,89.0,1802.873562012888
+144,Brazil,No,No,No,Yes,Female,111.0,890.1923373345819
+145,Italy,No,,No,No,Female,112.0,1131.439078465286
+146,Singapore,No,No,No_,Yes,Female,49.0,1536.9434626424102
+147,Netherlands,No,Yes,Yes,No,Male&,80.0,1371.1774349173215
+148,Vietnam,No,Yes,Yes,,Female,62.0,1214.1554224198103_
+149,Italy,No,No,Yes,Yes,Male,74.0,1460.3377489151017
+150,Costa Rica&,No,Yes,Yes,Yes,Male,86.0,973.5851915874075
+151,South Africa,,Yes,No,Yes,Male,102.0,1508.3540981184383&
+152,Canada,Yes,Yes,No,Yes,Male,102.0,831.4291290334199
+153,Norway,Yes,Yes,No,No,Female,46.0,1316.6763681279206
+154,Russian Federation,No,No,Yes,No,Male,42.0;,1769.6316022641493
+155,New Zealand,Yes,Yes,Yes,Yes,,26.0&,1346.606435604188
+156,Italy,No,No,Yes,Yes,Female,65.0,1563.7204923866757
+157,Indonesia,Yes,Yes,Yes,No,Female,,1735.006083760376
+158,New Zealand,Yes,No;,No,Yes,Male,91.0,1792.1854686394156
+159,Ukraine,No,Yes,No,No,Male,15.0,953.4285551226029
+160,Australia,No,No,Yes,Yes,Female,,1288.6981250770052
+161,India,Yes,Yes,Yes,Yes,Male&,73.0,1091.291455778187
+162,Colombia,Yes,Yes,No,Yes&,Male,73.0,1730.9588872929144
+163,,No,Yes,,Yes,Female,80.0,1529.3933672232336
+164,South Korea,Yes,Yes,No,No,Female,61.0,875.8109536685231
+165,Italy,No,No,nan&,No,Male,14.0,837.4077281791194_
+166,South Africa,No,No,Yes,Yes,Female,78.0,1141.1570240300305
+167,Pakistan,No,No,No,Yes,Female,51.0,965.0908240967892
+168,Austria,No,No,No,No,Female,106.0,1348.7616903345997
+169,South Korea,No,,Yes,Yes,Male;,73.0,1276.1783013536326
+170,South Africa,Yes,No,Yes,Yes,Male,68.0,715.855924636671
+171,Turkey,,Yes,Yes,No,Female,27.0,1828.0406196185209
+172,Brazil,Yes,No,No,No,Male,30.0;,1774.9537750655795
+173,Poland,No,No,No,No,Male,101.0,1888.6586874481734
+174,Costa Rica_,No,Yes,No,,Female,20.0,1094.5252695220452
+175,Colombia,No,,Yes,Yes,Male,66.0,1426.849890155839
+176,Ireland,Yes,Yes,nan&,No,,,1072.5623527155262
+177,Belgium,Yes,No_,Yes,Yes,Male,46.0_,1446.491738660456
+178,,Yes,No,Yes&,Yes,Female,63.0,1506.677946729877
+179,Australia,Yes,No,No,No,Female,104.0,923.4155184121842
+180,Germany,Yes,Yes,Yes,Yes,Male,102.0,1457.681345297119
+181,Turkey,Yes,No,Yes,Yes,Male,66.0,1510.0973203326869
+182,Mexico,Yes,Yes,Yes,No,Male,54.0,1173.7519891754498
+183,Sweden,Yes,Yes;,No,No,Female,15.0,1851.6337813147588
+184,Chile,No,Yes,No,No,Male,92.0,1009.0326814363144
+185,Peru,,Yes,No,Yes,Female,57.0,1050.6660644416615
+186,France,No,No,Yes,Yes,Male,30.0,1394.2288470656229_
+187,Nigeria,Yes,,No,No,Male,80.0,1111.3799545843626_
+188,Netherlands,Yes,No,No,Yes,Male,75.0,1649.1893775113142
+189,South Africa,No,No,Yes,No,Male,,1038.2988672833874
+190,Colombia_,No_,Yes,Yes,No,Female,33.0,1557.5531472078642
+191,Netherlands,Yes,Yes,No;,No,Female,106.0,619.041176279915
+192,New Zealand,No,No,,No,Female,32.0,1252.5232862022958
+193,France,Yes,Yes,No,Yes,Male,31.0,1160.0009000790808
+194,Chile,Yes,No,Yes,No,Female,63.0,1171.9695518625444
+195,China,,No,No,Yes,Male,111.0,1774.803634866079
+196,Austria,No,No,No,No,Male,34.0,975.8910865108498
+197,Russian Federation,Yes,Yes,No,No,Female,72.0,1628.1274443271107
+198,Philippines,Yes,Yes,No,Yes,Female,40.0&,961.2765171948568
+199,Austria,No,Yes,Yes,Yes,Female,22.0,884.6551085734267
+200,Indonesia,,Yes,No,Yes,Male,39.0,1491.5500423567073
+201,,Yes,No,Yes,Yes,Male;,,1197.7924818161055
+202,New Zealand,No,No,Yes,Yes,Female,23.0,1708.0782212583945
+203,Nigeria,No,No,Yes,No,Female,47.0,819.8797409045238
+204,Ireland,No_,No,Yes,Yes,Male,48.0,1780.5340852860302
+205,Spain,Yes,No,Yes,No,Female,40.0,1632.990010611615;
+206,,No,Yes,Yes,Yes,Male,15.0,1181.9983571747152
+207,Austria,Yes,Yes,Yes,Yes,Female,101.0,2221.7902681263954
+208,Sweden,No,No,No,Yes,Female,95.0,900.3878071961394
+209,South Africa,Yes,Yes,Yes,Yes,Female,15.0,889.9099766001485
+210,China,Yes,No,No,Yes,Female,39.0,1190.263660886792
+211,India,No,Yes,No,,Male,65.0,1566.8269154080413
+212,Spain,Yes,Yes,Yes,Yes,Female,68.0,1007.3895136185213
+213,Ukraine,No,Yes,Yes,No,Male,93.0,1427.3340994113507
+214,Costa Rica,,No,Yes,No,Male,23.0,1791.6315499398363
+215,Italy,No,No,No,Yes;,Female,69.0,1661.1596201234388
+216,Spain,Yes,Yes,Yes_,No,Female,60.0,
+217,United Kingdom,Yes,Yes,No,No,Female,67.0,1051.2942738801853
+218,South Korea,Yes,No,Yes,Yes,Female,31.0,1223.915573632793
+219,Mexico,Yes,No,Yes,Yes,Male,72.0,1295.3734633276622
+220,Mexico,No,Yes,No,Yes,Male,88.0,1402.2146625505789
+221,South Africa,Yes,No,,No,Male,82.0,1346.477292446117
+222,United Kingdom,No,,No,Yes,,85.0,1422.3678897688646
+223,South Korea,Yes,,No,Yes,Female,67.0,865.8929886025383
+224,Turkey,No,Yes,Yes,No,Male,15.0&,1644.001308087514
+225,Spain,No,Yes,No,Yes,Female,62.0,1056.8764813549187
+226,Brazil,No,No,No,Yes,Male,50.0,1115.5279522336414
+227,,Yes,No,No,No,Female,109.0,1280.3506856639792
+228,India,Yes,No,Yes,No&,,51.0,1427.804852321251
+229,,No,Yes,No,Yes,Male_,36.0,749.4928673150198
+230,Germany,No,No,No,No,Male,67.0,1351.7298367263968
+231,Costa Rica,No;,No,Yes,No,Female,59.0,1086.4090570067128
+232,South Africa,Yes,No,No,Yes,Male,13.0,1305.7273628673886
+233,Ukraine,Yes,Yes,No,,Male,15.0,1217.3302150079353
+234,South Africa,Yes,Yes,No_,Yes,Male,60.0,1292.976535644147
+235,Germany,Yes,No,No,No,Female,63.0,1690.7877061447944
+236,,No,No,No,Yes,Male,92.0,1882.4837385385854
+237,France,Yes,Yes,No,Yes,Male,53.0,1354.9281483477725
+238,Nigeria,No;,No,No,No,Male,49.0,1220.8194491609531
+239,Germany,No,No,Yes,No,Male,29.0,1253.1731862053828
+240,Turkey,Yes&,No,No,No,Female,37.0,1376.1522709677024
+241,Ukraine,No,,Yes,No,Female,104.0,1194.7888693572625
+242,Australia,No,No,Yes,Yes,Male,99.0,1894.0142895269328
+243,Poland,Yes,Yes;,Yes,Yes,Female&,17.0,1612.7735599213202
+244,South Africa&,No,Yes,Yes,No,Female,90.0,1606.003746395978
+245,Netherlands,No,Yes,Yes,No,Male,,1464.4040849256637
+246,Germany;,No,Yes,No;,Yes,Male,,1414.1187169963011
+247,Belgium,No,No,Yes,No,Female,32.0,1299.7630644105027
+248,Poland,Yes,No,No,Yes,Female,44.0,2005.692622225963
+249,Netherlands,No,Yes,No,Yes,Male,84.0,1800.0908655821818
+250,Ireland,Yes,No,Yes,Yes,Female,26.0,1537.9215451024825
+251,India,,Yes,No,No,Female,21.0,1184.2506210293677
+252,Brazil,,Yes,Yes,Yes,Female,15.0,1918.9163145633288
+253,Austria,Yes,Yes,Yes,No,Female,112.0,1692.0463868777927
+254,France,Yes,Yes,No,No,Female,83.0,
+255,France;,No,Yes,No,No,Male&,84.0,922.0694332429232
+256,China,No,No,No,Yes,,33.0,2378.395962749415
+257,United Kingdom,No,No,No,Yes,Female,57.0,1528.8041992046221
+258,Singapore,Yes,No,Yes,No,Female,100.0,1517.1286145860986;
+259,Chile,No,No,No,Yes,Female,41.0,1814.2187312954024
+260,Turkey,No,Yes,No,No,Male,48.0,1039.6639533719635
+261,Russian Federation,Yes,Yes,Yes,No,Female,23.0,968.2187045303957
+262,Turkey,Yes,Yes,,Yes,Male,16.0,1366.4498227971858
+263,Indonesia,Yes,No_,No,No,Male,16.0,1029.991885599461
+264,Spain,No,No,No,Yes,Female,100.0,1804.1360937768536
+265,Chile,Yes,Yes,Yes,No,Female,50.0,692.0643406422056
+266,Turkey,No,Yes,No,Yes,Female,98.0,1576.2621254472042
+267,Brazil,Yes,No,No,Yes,Female,21.0,1372.6292676259527
+268,China,No,Yes,Yes,No,Male,111.0,1094.804401163019
+269,Sweden,No;,No,,Yes,Male,63.0,1081.2181042623918
+270,Norway_,Yes,No,Yes,No,Male,38.0,1104.182561528392
+271,Costa Rica,No,No,No,No,Female,54.0,1966.418530576211
+272,Poland,Yes,No,Yes,No,Female;,77.0,850.576672392853
+273,Italy,No,No,Yes,No,Male,14.0,1212.5862551940186
+274,,No,Yes,No,Yes,Male,78.0,1419.2046877267592
+275,Russian Federation,No,No,Yes,Yes;,Female,84.0,1037.1949957349684
+276,Italy,No,No,Yes,No;,Female&,109.0,816.0073151753768
+277,Pakistan,No,Yes,Yes,No,Female,68.0,1078.9354399179604
+278,Russian Federation,Yes,Yes,No,Yes,Male,40.0,1421.045682406299
+279,Belgium,Yes,No,No,Yes,Female,71.0,1039.576255417503
+280,Poland,No,Yes,No,Yes,Female,77.0,714.8644706003624
+281,Mexico,Yes,Yes,Yes,Yes,Female,30.0,1884.8419728025312
+282,Singapore,No,No,Yes,Yes,Male,111.0_,1379.048680620433
+283,Poland,No,No,Yes&,No,Male,58.0,1705.8080984996823
+284,Austria,No,No,No,No,Female,103.0,843.29417570202
+285,Russian Federation,Yes,No,Yes,No,Female,13.0,1664.7527839341096
+286,Belgium,Yes,Yes,Yes,Yes,Female,88.0,1234.8389145959388
+287,Vietnam&,Yes,,No,No,Female,74.0,1267.4408582748083
+288,France&,Yes,No,No,No,Female,105.0&,1083.0616339304026
+289,United States,No,No,,Yes,Female,,1247.6978212444315
+290,Philippines,No,No,Yes,Yes,Female,19.0,1321.832226666572
+291,United States,Yes,Yes,Yes,No,Female,98.0,1727.5941516433907
+292,Russian Federation,No,No,No,Yes,Male,85.0,1373.5230443136713
+293,India,Yes,No,Yes,Yes,Female,106.0,1309.082729545166
+294,Russian Federation,Yes,No,,Yes,Male,22.0,560.0366038423476
+295,India,No,Yes,Yes,No,Female,97.0,917.8247801488474
+296,,Yes,,No,No,Male,85.0,
+297,Norway,No,,Yes,No,Male,47.0,1673.7041745102024
+298,South Korea,No,Yes,Yes,Yes,Female,14.0,1569.4744353510043
+299,Pakistan,No,,No,Yes,Female,53.0,1293.0955209350723
+300,Italy,Yes,No,Yes,No,Female,,1568.6183203532787
+301,Norway,Yes,,Yes,No,Female,37.0,1432.5222015569013
+302,South Korea,Yes&,No,No,Yes,Male,72.0,1214.8627419937775;
+303,Philippines,No,No,No,Yes,Male,25.0,1583.9051197266174
+304,Indonesia,Yes,Yes,Yes,No,Female,24.0,1451.1749636888858
+305,Italy,No,Yes,,No,,97.0,1299.9585991221447
+306,Indonesia,No,Yes,Yes,Yes,Male,81.0,
+307,New Zealand_,No,No,No,No,,104.0,2572.330913021535
+308,Colombia,Yes,Yes,No,No,Female,22.0,1375.1728843841056
+309,France,Yes,Yes,No,Yes,Female,32.0,
+310,Indonesia,Yes,No,No,No,Female_,45.0,1698.3202034935734
+311,Ukraine,Yes,Yes,No,Yes,Male,35.0,1586.4247846144885
+312,Ireland,Yes,No,Yes,Yes,Male,103.0,1129.7474549772562
+313,Austria,Yes,Yes,Yes,Yes,Male,87.0,1803.5613496001656
+314,United Kingdom,No;,Yes_,No,Yes,Female,22.0,
+315,,Yes,Yes,No,Yes,Female,98.0,1188.1548682759785
+316,Philippines,Yes,Yes,No,Yes,Male,111.0,1590.6843738986936
+317,Mexico,Yes,Yes,Yes,No,Male,70.0,1823.4434758168918
+318,Pakistan,Yes,Yes,No,No,Male,61.0,1728.843114739801
+319,Canada,No,Yes,No,Yes,Male,76.0,1538.3124721111776&
+320,Colombia,Yes,Yes,Yes,No,Female,24.0,
+321,,Yes,No,Yes,No,nan&,,713.4339565060768
+322,Spain,Yes;,Yes,Yes,,,46.0,1765.0163376237242
+323,Costa Rica,Yes,Yes,Yes,Yes,,28.0,825.4882581281529
+324,South Korea,No,No,No,Yes,Male,53.0,1680.9022949613382
+325,Indonesia,No,No,Yes,No,Female,36.0,1170.8566536288008
+326,Canada,Yes,No,Yes,No,Female,85.0,1433.0200837811503
+327,Peru,,Yes,Yes,,Male_,28.0,1356.3020343730243_
+328,Germany,Yes,No,Yes,No,Male,,1068.6280437946036
+329,New Zealand,Yes,Yes,,Yes,Male,50.0,1391.5879932255943
+330,New Zealand,Yes,No,No,Yes,Female,18.0,1477.5452002378765
+331,Turkey,Yes,No,No,Yes,Male,74.0,1596.7713875645582
+332,Ukraine,No,Yes,Yes,No,Male,102.0,1574.6271071478927
+333,South Korea,No,No,Yes,Yes,Male,63.0,1210.6126086616193
+334,Chile,No,Yes,No_,No,Male,41.0,1715.7651859939187
+335,United Kingdom_,Yes,,No,Yes,Female,42.0,1633.3824769664934
+336,Norway,No,No,No,Yes,Female,72.0,1206.3332738573026
+337,Pakistan,No,Yes,No,No,,46.0,1419.0722689744846
+338,Nigeria,No,Yes,Yes,Yes,Female,78.0,1665.4648195822235
+339,Turkey,No,No,Yes,Yes,Female,12.0_,1736.198472129512
+340,Ukraine,No,Yes,No,No,Female,111.0,1541.6185919867196
+341,Austria,,No,No,Yes,Male,79.0,968.2012174416277
+342,,Yes,No,Yes,Yes,Female,12.0,1834.1891725615162
+343,Germany,No_,,Yes,,Male,24.0,912.9760098109514
+344,South Africa,Yes,No,Yes,No,Female,39.0,1434.0216598916065
+345,Singapore&,Yes,No,Yes&,,Female,60.0,1807.4268628098414
+346,Singapore,Yes,Yes;,No,No,Female,29.0,1401.129015822467
+347,Peru;,No,No,Yes,No,Female,13.0,1363.44937406142
+348,New Zealand,No,Yes,Yes,Yes,Male,49.0,1749.8235226658903
+349,South Africa&,No,No,Yes,Yes,Male,15.0,845.6908193720357
+350,Singapore,No,No,No,No,Female,75.0,1468.8784819113444
+351,Russian Federation,Yes,Yes,Yes,No,Male,38.0,2050.63076683165_
+352,Sweden,Yes,No,Yes,Yes,Female,51.0,811.1597680948007
+353,France,,Yes,Yes,Yes,,32.0,1816.2134175122706
+354,Colombia,Yes,Yes,No,Yes,Female,70.0,1377.4110326645628
+355,Costa Rica,No,Yes,Yes,No,Female,42.0&,1407.136396486923
+356,Turkey,,No,,Yes,Male,,789.2612695193585
+357,Singapore,Yes,No,Yes,No,Male,84.0,1520.1214246230318
+358,China,nan;,Yes;,Yes,Yes,Male,75.0,1982.3003399017364
+359,Nigeria,No,Yes,No,No,Female,69.0,1398.2513740583158
+360,Mexico,,Yes,No,Yes,Female,13.0,1383.521844526834
+361,Russian Federation,Yes,No,Yes,Yes,Female,105.0,1439.55229716489
+362,,No,,,No,Female,33.0,1336.6370754359468
+363,Brazil,Yes,Yes&,No,Yes,Male_,,1714.8864330475485
+364,Netherlands,No,Yes,No,No,,91.0,1457.5800123926665
+365,Australia,Yes,No,No,Yes,Male,14.0,1204.2850555737077
+366,Norway,Yes,Yes;,,No,Female,44.0,1572.3477781498943
+367,South Africa,Yes,No,No,Yes,Female,29.0,807.6014518317398
+368,,No,No,No,No,Male,47.0,1815.4058467701975
+369,Netherlands,Yes;,No,Yes&,No,,92.0,1194.3538542031285
+370,Pakistan,No,No,No,Yes,Female,111.0,1868.63750331426
+371,Russian Federation,No,Yes&,Yes,No,Female,86.0,1741.2093667176587
+372,Germany,Yes,Yes,Yes,No,Male,58.0,1686.2975762730903
+373,Ukraine,No,Yes,No,Yes,Female_,42.0,1336.58887257492
+374,United Kingdom,No,Yes,,No,Female,80.0,653.7178859914143
+375,South Korea,Yes,Yes,No_,No,Male,64.0,1130.6636502837314
+376,Mexico,,Yes,Yes,Yes,Male,90.0,1323.2862219409571
+377,Australia,No,No,Yes,No,Male,79.0,1639.0802252710998
+378,Chile,No,,Yes,No,Female,63.0,1233.1074670660962
+379,China,Yes,Yes,Yes,No,Female,43.0&,1248.1731484191173
+380,United Kingdom,Yes,Yes,No,No,Female,24.0,1745.6742653899946
+381,Peru,No,Yes,No,Yes,Female,36.0,1329.9599785531711
+382,Ireland,Yes,No,Yes,Yes,Male,35.0,1241.1512580107071
+383,China,No,Yes,No,Yes,Female,26.0,1167.9356045643217
+384,Colombia,No,No,No,Yes,Female,59.0,1838.4876184373925
+385,Indonesia,Yes;,No,Yes,No&,Female,27.0,1374.0692268540276
+386,New Zealand_,Yes,Yes_,No,No,Female,14.0,1508.8887400569347
+387,United Kingdom,No,Yes;,Yes,No,,94.0,1178.056669097112
+388,Singapore,No,Yes,No,No,,27.0,1387.1556540984964
+389,Nigeria,Yes,Yes,Yes,Yes,Male,42.0,1208.7774277362062
+390,Russian Federation_,Yes,Yes,No_,Yes,Female,30.0&,1091.1487306155368
+391,South Africa,Yes,No,No,No,Female,70.0,1927.322258573633;
+392,China,No,Yes,No,Yes,Female,95.0,1284.2850218338274
+393,Poland,No,No,No,No,Male,91.0,1630.2797277658308
+394,United States,,Yes,No,,Male,47.0,1241.249951256709
+395,Turkey,No,No,,No,Male,51.0,1533.8676058991769
+396,Germany;,Yes,No,Yes,No,Male,70.0,1850.650090750318
+397,Norway,No,No,No,No,Male;,,1198.51344836782
+398,Belgium,Yes,Yes,Yes,Yes,Female,90.0,1328.7264695338981
+399,Germany,Yes,No,No,No,Female,22.0,1829.6703068175145
+400,India,No,No,Yes,No&,Female,61.0,1465.1218907296786
+401,Mexico,Yes,No,Yes,No,Male,97.0,1710.2842638910593
+402,Mexico;,No,No,No,No,Female,28.0,1233.2639184173647
+403,Russian Federation,,Yes,Yes,Yes,Female,60.0,1573.9609100934808
+404,Brazil,No,No,No;,No,Female,70.0,1521.5504205939997
+405,United States,Yes,Yes,Yes,No,Male,105.0,1127.9823260813268
+406,South Africa,Yes&,No,,Yes,Female,21.0,1329.7933949883115
+407,Sweden,Yes,No,Yes,Yes,Female,43.0,
+408,Chile,No,No,No,Yes,Female,35.0,1263.6794686335663
+409,Norway,Yes,No,Yes,No,Female,103.0,1047.1593883710584
+410,Chile,No,Yes,Yes_,Yes,Female,46.0,1410.6055997025794
+411,Mexico,Yes,No,No,Yes,Female,69.0,1684.2031925517865
+412,,No,No,Yes,Yes,Female,76.0&,879.5054707515253
+413,Costa Rica,No,Yes,Yes,No,Female,34.0,
+414,Ireland&,Yes,No,Yes,No,Male,109.0,1899.438823887895
+415,Poland,No,No,Yes,Yes,Female,78.0,
+416,New Zealand,Yes,Yes,,Yes,Male,67.0,905.0321514577234
+417,Costa Rica,No,No,No,Yes,Male,21.0,1483.354644989254
+418,Belgium,No,No,Yes,No,Male,62.0,985.1921925814877
+419,Canada,Yes,No,Yes,Yes,Female,28.0,1721.2501738900226
+420,Belgium&,Yes,No,Yes,No,Male,35.0,1077.7022769770044
+421,Germany,No,Yes,No,No&,Female,35.0,1144.459885244937
+422,Spain,No,No,Yes,No,Female,103.0,1231.6160551376843
+423,Germany,Yes,No,Yes,Yes,Female,55.0,1170.8048578047158
+424,Ireland;,No,No,No,Yes,Male,46.0,1412.3728063825909
+425,Australia,Yes;,No,No,No,Male,33.0,1689.106303849976
+426,Mexico,No,No,Yes,Yes,Female,23.0,1296.6479308617086
+427,Ireland,No,Yes,Yes,Yes,Male,86.0,1160.9186575753124
+428,Sweden&,No;,No,No,No,Female,85.0,1201.7769565351202
+429,Pakistan,No,No,Yes,No,Female,42.0,883.4441895601803
+430,Vietnam,No,Yes_,Yes,No,Female,,1760.5603530745373
+431,Germany,Yes,Yes,No,Yes,Male,73.0,1843.9634680998627
+432,South Africa,No,Yes,No,No,Male,18.0&,964.2827861870317
+433,Brazil,No,No,nan_,No&,Male,81.0,1762.8046302580378
+434,Germany,No,No,Yes,Yes,Male,46.0,
+435,Netherlands,No,No,No,No,Male,38.0,1624.6548271812007
+436,,No,Yes,No,Yes,Female,55.0,1899.8507455579165
+437,Pakistan,,No,No;,No,Male,nan_,
+438,Russian Federation,No,Yes,No,Yes,Female,74.0,2018.339236844689_
+439,China,Yes,Yes,No,Yes,Female,67.0,1096.2229262667076
+440,United States,No,Yes,No,No,Female,90.0,
+441,United States,Yes,Yes,No,No,Male,109.0,927.1665401276802
+442,New Zealand,No,No_,Yes,Yes,Male,110.0,1251.6907681604448_
+443,Chile,Yes,Yes,Yes,Yes,Female,20.0,1028.1463980732647
+444,Spain&,Yes,Yes,Yes,Yes,Female,75.0,1529.4545870453699
+445,Ireland,No,Yes,Yes,Yes,Male&,14.0,1402.2056445000412
+446,France;,No,Yes,No,No,Male,23.0,1658.064982579351
+447,China,No,No,No,No,Male,23.0,1224.0792613884169
+448,Belgium,Yes,Yes,No&,Yes,Female,91.0,1662.624083682249
+449,,No,No,Yes,No,Female;,75.0,1255.864918680536
+450,Australia,Yes_,Yes,,Yes;,Male,106.0,1861.1484715543475
+451,Vietnam,Yes,Yes,No,Yes,Male,67.0,1366.1210013741309
+452,Pakistan,,Yes,Yes,No,Male,107.0,1456.5788664907561
+453,,No;,No,No,Yes,Male,74.0,1281.163103346324
+454,Peru,No,Yes,Yes,No,Male,94.0,941.5589365752957
+455,Indonesia,No,Yes,Yes,No,,33.0,1973.0139424695426
+456,India,No,No,No,Yes,Female,38.0,1560.9821952327986
+457,Italy,Yes,No,Yes,Yes,Male,14.0,1558.7727727535055;
+458,Ireland,Yes,Yes,No,No,Male,105.0,1445.8628373224637
+459,,Yes,Yes,No,Yes,Male,105.0,1503.0522793473347
+460,Australia,Yes,Yes,No,No,Female,89.0,998.0923896278282
+461,New Zealand,Yes,No,Yes,Yes,Male,21.0,
+462,Germany,No;,Yes_,No,No,Male,44.0,1516.8977701602164
+463,Philippines,Yes;,No,Yes,Yes,Male,79.0,2223.301716433172
+464,South Africa,No_,Yes,No,Yes,Female,92.0,2032.5799463787712
+465,Russian Federation,Yes,Yes,No,No,Female,87.0,906.1512232930887
+466,South Africa,No,Yes,Yes,Yes,,82.0,1299.534506629725
+467,nan;,Yes,Yes,,No,Male,73.0,1228.6757083836724
+468,Germany,Yes,No,Yes,Yes,Female,81.0_,1555.796780108109
+469,Chile,No,No;,No,Yes,Male,93.0&,1690.4568843704908
+470,Sweden,Yes,Yes,Yes;,Yes,Male,69.0,
+471,Russian Federation,No,Yes,No,No,Male,108.0,962.1939298926036
+472,Sweden,Yes,No,No,Yes,Male,94.0,1911.1413783308535
+473,Norway_,Yes,Yes,No,No,Female,74.0,1257.0521231878222
+474,Nigeria,No,Yes,Yes_,Yes,Male,41.0,1521.7625919801446
+475,Canada,Yes,Yes,No,,Male,79.0;,1718.0026769421218
+476,Norway,No,No,No,Yes,Male,48.0,1481.5546617629875
+477,Belgium,Yes,Yes,Yes,Yes,Male_,13.0,1396.3815099045544
+478,Turkey,Yes,Yes,No,Yes,Female,70.0,1174.1926497512852
+479,United States,No,No,Yes,No,Male,96.0,2006.0450882658756
+480,Chile,No,Yes,Yes,No,Female,,1197.043124860491
+481,United Kingdom,Yes,No,Yes,Yes_,Male,17.0,2544.5124259580657
+482,Australia,No,Yes,Yes,Yes,Female,84.0,1395.1348662499188
+483,Norway,Yes,No,Yes,No,Male,69.0,1341.1937578196973
+484,Vietnam,No,Yes,No,Yes,Male,26.0,1625.3241332253633
+485,Pakistan,No,No,Yes&,Yes,Male,26.0,1504.5612081208099
+486,Poland_,Yes,No,No,Yes,Male,83.0,1230.2588840207143
+487,Canada,Yes&,No,No,No,Male,77.0,1550.3649088787115
+488,Canada,No,No,Yes&,Yes,Female,68.0,1405.470842539238
+489,Vietnam,No,Yes,Yes,,Male,21.0,1544.4403537332973
+490,India,No,No,Yes,No,Female,29.0,1145.2037898285487
+491,New Zealand,No,No,No,No,Female,55.0,
+492,Germany,No,Yes,,No,,,1283.1155257909672
+493,Germany,Yes,No,Yes,No,,19.0,1286.7605826689144
+494,Ireland,Yes,Yes,No;,No,Female,111.0,1244.0735619295072
+495,Norway,Yes,Yes,No,Yes,Male,44.0,1259.8274469755604
+496,Brazil,No,Yes,No,Yes,Female,109.0,1370.6815848614078
+497,Brazil,No,No,No,No,Male,79.0,1595.1870837302718
+498,Australia,Yes,No&,No,Yes,Male,65.0,903.6683968869052
+499,India,No,No,Yes,Yes,Female,83.0,1039.478720320514
+500,Russian Federation,No,No,,No&,Male,76.0;,1596.9811788462368
+501,China,Yes,Yes,No,No,Male,13.0,1981.0810030597013
+502,South Korea,Yes,No,No,No,Male,,1084.0631522076242
+503,Pakistan;,No,No,Yes,No,Male,79.0,1252.7915894985395
+504,Indonesia,No,No,Yes,Yes,Male,76.0,1430.734815163073
+505,Singapore,Yes,Yes,Yes,Yes,Male,109.0,1156.887173738378
+506,Ireland,No,Yes,Yes,Yes,,41.0,664.922210050564
+507,Indonesia,No,Yes,Yes,Yes,Female,68.0,1883.4090615709201
+508,South Korea,Yes,No&,Yes,Yes,,16.0,1814.168338177107
+509,Vietnam,Yes,Yes,,No,Female,100.0,877.4874001996016
+510,Ireland,Yes,No,No,No,Female,41.0_,1795.3603951092675
+511,Australia,No,No,No,No,Female,67.0,1140.983565533216
+512,Ireland,No,Yes,Yes,No,Female,52.0,1577.2805153610698
+513,Australia,No_,Yes,No,,Male,18.0,
+514,Peru,No,Yes,No,No,Female,19.0,1361.5244577098301
+515,Ukraine,No,No,No,Yes,Male,40.0,
+516,Germany,No,No,Yes,Yes,Female,29.0,1788.3587356663775
+517,Germany,No,Yes,Yes,Yes,Female,33.0,1969.9027721591888;
+518,Austria,nan_,Yes,Yes,Yes,Female,103.0,1592.9991883516395
+519,Spain,No,Yes,Yes,,Male,112.0,1686.817891061065
+520,Singapore,No&,No,Yes,Yes,Male,100.0,1032.2021206311892_
+521,Philippines,No,Yes,No,Yes,Male,20.0&,1291.6744470693127
+522,Colombia,No,No&,No,No,Female,13.0,1410.6053764755973
+523,Canada,Yes,No,,Yes,Male,105.0,nan;
+524,Italy,Yes,No,Yes,No,Male,32.0,969.1621337596997
+525,Belgium,Yes,Yes,Yes,No,Male&,112.0,1355.1457828487416
+526,,No,No,Yes,Yes,Male,44.0,1402.5560595056115
+527,Pakistan,No,No,No,No;,Male,24.0,2064.644173879467
+528,Philippines,Yes,Yes,No,No,Female,79.0,1422.3256236680415
+529,Turkey,Yes,Yes,Yes,No,Female,29.0,1796.059710777938
+530,South Korea,No,Yes,No,,Male,55.0,2023.760000875217
+531,Indonesia,Yes&,,No,Yes,Female,59.0,1398.533571657449
+532,Belgium,Yes,Yes,Yes,Yes,Female,61.0,934.1181672354151
+533,Turkey,,Yes,Yes,Yes,Female,103.0,1260.3664859136395;
+534,Norway,Yes,,No,No,Female,69.0,1431.8128061488978
+535,Chile,No,No,No,Yes,Male,99.0,1781.5399121315986
+536,,Yes,No,Yes,No,Male,20.0,1372.2396049145436
+537,France,,Yes,Yes,No,Female,47.0,1218.7520007551454
+538,France,Yes,No,No,No,Male,62.0,1315.8784533500866
+539,Sweden,No,Yes,No,No,Male,25.0,1731.1878838345299
+540,New Zealand,Yes,,No_,,Male,99.0,1883.278401296875
+541,Ireland,No,Yes,Yes,No,Male,53.0,1625.4828488563232
+542,,No,No,No,No,Male,100.0,1188.8241347566602
+543,South Africa_,,Yes,,Yes,Male,86.0,1583.3390869795103
+544,United States,No,No_,,No,Male,52.0,1911.734990980458
+545,Australia,Yes,Yes,Yes,No,Male,95.0,1597.0188588954607
+546,Poland,No,Yes,No,No,Female,35.0,2022.9277753517072
+547,Ireland,No,Yes,No,Yes,Male,50.0,1762.2217722636437
+548,Netherlands,Yes,No,No,Yes,Male,49.0;,958.6847056934682
+549,Colombia,Yes,No,No,Yes,Female;,109.0,1495.8806260768897
+550,Netherlands,Yes,Yes,No,Yes,Male,112.0,1414.124564306
+551,India,Yes,No,Yes,No,,,1323.2802882771268
+552,United States,Yes,No,Yes,Yes,Male,64.0,991.4007221377803
+553,France,Yes,No,Yes,No,Female,14.0,1425.3641079734261
+554,Netherlands,No,No,Yes,No,Female,60.0,851.062161848132
+555,United Kingdom,,No,,No,Male,65.0,1691.1324581629656
+556,Mexico,No,Yes,No,No,,,1617.5730451824502
+557,India,Yes,Yes,No,No,Female,32.0,1127.6719385265644
+558,Chile,Yes,No,Yes,No,Male,87.0,1474.861768401893
+559,South Africa,Yes,Yes,Yes,Yes,Male,49.0,1295.7395151102637;
+560,South Africa,Yes,Yes,Yes,No,Male,37.0,1445.1467460487295
+561,Spain,No,Yes,No,Yes,Female,nan&,615.7662300855837
+562,,Yes,Yes,Yes,Yes,Female,18.0,1655.033760810647
+563,Nigeria_,No,Yes,Yes,No,Male,59.0,1322.3249149357653
+564,Vietnam,Yes_,No,Yes,Yes,Male,40.0,1383.3176480621216
+565,Peru,Yes,Yes,Yes,No,Male,43.0,1459.2846195151515;
+566,France,,No,Yes,No,Male,90.0,2052.9455426789295
+567,Ukraine,Yes&,No,Yes,No,,15.0,1644.001817072179
+568,Colombia,,No,Yes,No,,51.0,1241.1948828100446
+569,Canada,Yes,Yes,No,Yes,Male,32.0,
+570,Nigeria,Yes,Yes,Yes,Yes,Female,67.0,2098.469292663821
+571,Turkey,No,No,Yes,Yes,Female,80.0,1435.729177345109
+572,Ireland,No,No,Yes,No,Male,96.0,1687.9673242939675_
+573,Colombia,Yes,Yes,Yes,No,Female,44.0,1808.8592022111197;
+574,Chile,No,Yes,No,No,Female;,58.0,1303.3645197267124
+575,Peru,No,No,Yes,Yes,Male,44.0,1387.7714880421738
+576,South Africa,No,No,,No,Male,69.0,1536.0490916394167
+577,India,Yes,Yes,,No,Male,68.0,655.8451698637803
+578,Peru,No,No,No,Yes,Male,56.0,1541.5841584144785
+579,Ireland,No,Yes,No,Yes,Female,nan&,1132.8893222535182
+580,Belgium,No,No,No,Yes,Male,64.0,904.7468167458592
+581,Sweden,Yes,Yes,Yes,No,Male,74.0,1419.0736870212497
+582,Vietnam,Yes,No,Yes,No,Female,81.0,1818.3629818180798
+583,Germany&,Yes,No,No,Yes,Female,,1653.8489309926385
+584,Turkey,No,Yes,Yes,Yes,Female,103.0,1354.794220196913
+585,Norway,No,No,Yes,Yes,Male,44.0,
+586,Norway,Yes,Yes,No&,Yes,Female,89.0,1153.887050500645
+587,Netherlands,Yes,No,No,No,Female_,22.0,1259.6666968233867
+588,France,No,Yes,No,Yes,Male,91.0,1024.0790607428469
+589,Peru,No,No,Yes,No,Male,102.0,776.2116033001723
+590,Chile,No,No_,Yes,Yes,Male,101.0_,1231.5389231979443
+591,New Zealand,No,No,Yes_,Yes,Male,94.0,1179.8432768244375
+592,Philippines,Yes,No,Yes,Yes,Female,13.0,1035.9327307506137
+593,Nigeria,No,Yes,Yes,No,Male,28.0,1042.4474061968028&
+594,India,No,No,No,No,Male,47.0,1602.7040981093169
+595,Nigeria,No,Yes,Yes,Yes,,22.0,1156.7910442972195
+596,China,No,Yes;,No,No,Female,78.0,947.8959582124234
+597,Peru,,No,No,,Male,55.0,1381.7915509195684
+598,Italy,Yes,No,No,Yes,Female,13.0,1087.9851158139263
+599,Russian Federation,Yes,,No,No,Female,36.0,1993.208106857407
+600,South Korea,Yes,Yes,No,Yes,Female,44.0;,1330.7094993116766
+601,India,No,Yes,No,No,Female,38.0,1227.541810602992
+602,France,No,Yes_,,Yes,,89.0,2291.394687672124
+603,Turkey,,Yes,Yes,,Male,28.0,1831.8332516170035
+604,Chile,No,Yes,Yes,No,Female,69.0,1523.579866356039
+605,Poland&,No,No,No,Yes,Male,27.0,1872.0552379336275
+606,Ukraine,Yes,No,Yes,No,Female,108.0,1509.9387749365424
+607,South Africa,No,No,Yes,No,Male,61.0&,1385.3860701702288
+608,Nigeria,Yes,Yes,No,Yes_,Female,14.0,1653.1568787012602
+609,France,No,Yes,No,Yes,Male,89.0,1371.5591821070168
+610,South Korea,Yes,No,Yes,Yes,Female,71.0,1954.1714369070019
+611,Costa Rica,Yes,No,No,No,Male,22.0,1179.3456096849286
+612,Costa Rica,Yes,Yes,Yes,Yes,Male,,1219.3223456935802
+613,Sweden,No,,Yes,Yes,Female,93.0,1266.7070126853
+614,Australia,Yes,Yes,Yes,No,Female,88.0,1038.4167438921122
+615,Peru,No,Yes&,Yes,No_,Male,,1066.8728609473742
+616,Costa Rica,Yes,Yes,Yes,Yes,Female,72.0;,756.1809652228975
+617,Philippines,Yes,No,Yes,Yes,Male,42.0,1541.519176309162
+618,Netherlands,Yes&,No,No,No,Male,73.0,961.9211539884876
+619,Germany,No,Yes,Yes,No,Female,96.0,1315.1422747022827
+620,United Kingdom,Yes,Yes_,Yes,,Female,60.0,
+621,Russian Federation,Yes&,No,Yes,Yes,Male,75.0,1483.0470404685123
+622,United Kingdom,Yes,No,No,Yes,Female,22.0,1584.8495738460292
+623,Colombia,No,Yes,No,Yes,Male,33.0,1487.8610834034685
+624,Italy&,No,No,Yes,No,Male,40.0,921.5480816272029
+625,South Africa&,Yes,No,,Yes,Male,36.0,1837.7878433499693
+626,Chile,Yes,No,No,Yes,Male,63.0,1758.2668155760098
+627,Italy,Yes,No,Yes,Yes,Male,15.0,2133.1923042130793
+628,India,,Yes,No,Yes,Male,32.0,1562.116369389962
+629,Peru,Yes,Yes,Yes,Yes,Male,14.0&,1660.2008116674579
+630,United Kingdom,Yes,Yes,No,Yes,Female,70.0,1558.463962020869
+631,Sweden,Yes,,Yes,No,Female,14.0,1255.271066336114
+632,Mexico,No,No,No,Yes_,Female,60.0,1059.0759013190425
+633,Vietnam,No,No_,No,Yes,nan&,34.0,1374.3309181855727
+634,Indonesia&,,,Yes,No,Female,111.0,1226.8633545066498
+635,Peru,No,No,nan&,Yes,Male,108.0&,1531.1153755931052
+636,Chile,No,,No,Yes,Female,112.0,1530.9773349632737
+637,United States,No,No,No,Yes,Male,70.0,978.9388276980881
+638,Netherlands,Yes,Yes,Yes,No,Male,,1908.2217247000017
+639,Chile,No,No,Yes,No,Female,101.0,1301.982268842352
+640,Poland,Yes,No,Yes,Yes,Female,87.0,1605.8287510687999
+641,Italy,Yes,Yes,No,Yes,Female,90.0,2063.9024870514736
+642,Peru,Yes;,,No,No,Female,73.0,1537.2885749478505
+643,Turkey,,No,No,,Female_,,1585.4984562876612
+644,India,No,No,Yes,No,Male,108.0,1124.1676924854846;
+645,New Zealand,No,No,No,Yes,Male,52.0,1770.8484848523867
+646,Ukraine,Yes;,No,No,No,Female,104.0,1302.693076269619
+647,Sweden,No,Yes,No,Yes,Female,105.0;,1170.734485175113
+648,South Korea,No,Yes,Yes,No,Female,105.0,1377.3631798514984
+649,Canada,No,Yes,Yes,No,Female,25.0,1083.2583225296555
+650,Belgium,No,No,Yes,No,Female,50.0,
+651,Peru,Yes,Yes,No,Yes,Female,80.0,1603.3548919049715
+652,New Zealand,No,Yes,No,No,Male,60.0,1599.0827500014384
+653,France_,No,No,No,No,,20.0,1675.848150745174
+654,Sweden,Yes,No,No,No,Female,86.0,1311.377269466913
+655,Netherlands&,Yes,,Yes,No,Male,88.0,1757.9208251569219_
+656,United Kingdom,No,No,Yes,,Male,88.0,1175.092911178549
+657,,Yes,Yes,No,Yes,Female&,17.0,1690.7739161451766
+658,Poland,Yes,Yes,No,No,Female,52.0,1906.628799245231;
+659,South Korea,Yes,Yes,Yes,No,Male,108.0&,1623.5771949617956
+660,Ireland,Yes,No,Yes,Yes,Male,85.0,1659.2540658659263
+661,Canada,Yes,No,No,Yes,Female,,1457.7138803258324
+662,Italy,Yes,No,No,Yes,Female,32.0,1013.9422576679572
+663,Australia&,Yes,No,Yes,Yes,Male,105.0,1643.0885801220236
+664,Brazil,Yes,No,Yes,No,Male,18.0,1106.2443136666925
+665,France,No,No,No,No,Male,96.0;,1334.5136634409203
+666,Vietnam,Yes,Yes,Yes,,Female,20.0,1505.5070247406693
+667,France,No,No,Yes,No,Male,25.0,1244.1338948837563
+668,Spain,No,Yes,,Yes,Female,104.0,1021.3747837559335
+669,Turkey,Yes,Yes,Yes,Yes,Female,35.0,905.6522112489151
+670,,Yes,Yes,No,No,Female,61.0,616.4288171251807
+671,Peru,Yes,Yes,Yes,,,78.0,1880.8326662523723
+672,Norway,Yes,No,Yes,Yes,Female;,42.0,1455.7056573543646
+673,Netherlands,No,Yes,No,No,Female,66.0,1109.2663159406384
+674,Poland,Yes,No,No,Yes,Female,30.0,
+675,Canada,No,Yes,No_,No,Female,,1119.592584525471
+676,Italy,No,Yes,Yes;,No,Female,59.0,1003.5720779784842_
+677,Indonesia,Yes,Yes,Yes,,Male,67.0,1723.2192648350476
+678,China,Yes,No,No,Yes&,Female,50.0,1071.7967641593623_
+679,Vietnam,Yes,Yes,No,Yes,Male,28.0,1038.4320388573635
+680,Nigeria,Yes,No,No,Yes,Female,101.0,
+681,Norway,No,No,No,Yes,Male,75.0,1450.0257842796118
+682,Chile,No,No,No,Yes,Female,74.0,
+683,Germany,Yes,Yes,No,No,Female,99.0,1463.247666755977
+684,Turkey,Yes,Yes,No_,Yes,Male,68.0,1355.6709792501365
+685,Ukraine,No,No,,Yes,Female,80.0,1316.5685715512473
+686,Chile,,No,No,No,Male,109.0;,1339.481330935637
+687,Singapore,Yes,nan;,No,Yes,Male,27.0,1159.6366791659177
+688,Chile,Yes,Yes,No,No,Male,,1512.1300061948334
+689,China,Yes,,Yes,No,Female,21.0,
+690,Peru;,No,Yes,No,Yes,Female,24.0,1174.4873412167933
+691,Singapore,Yes,Yes,No,Yes,Female,58.0,1345.916438077457
+692,Netherlands;,Yes,No,Yes,,Male,92.0,1430.3014048170662
+693,Brazil,Yes,Yes,Yes,No,Male,74.0,1733.0577162153395
+694,Russian Federation,,No,Yes,No&,Female,90.0,1800.5098766796755
+695,Ireland&,No,Yes,,,Male,79.0,1558.7584965814451
+696,Peru,,No,Yes,Yes,Female,83.0,1709.988385758913
+697,Peru,Yes,Yes,Yes,Yes,Male,19.0,1858.4854552550964
+698,Turkey,No,Yes,Yes,No,Male,100.0&,1296.1264851884787
+699,Norway,No,Yes,Yes,Yes,Male,27.0,1371.7469767502307
+700,Germany,Yes,No,No,No,Male,35.0,852.0693266740266
+701,France,No,No,No,No,Female,,1350.1144645338316
+702,Ukraine,Yes,No,No,No,Female,104.0,1501.4973358452403
+703,Colombia,,Yes,,Yes,Female,72.0,1780.319890259
+704,Ireland,No,No,Yes,No,Male,27.0,1036.2965311850512
+705,Vietnam,No,No,No,Yes,,86.0,1516.1949282695089
+706,Austria,Yes,No,Yes,Yes,Male,34.0,919.6876382294026&
+707,China,No,No,Yes,No,Male,71.0,685.9284452249369
+708,Spain,Yes,No,No,Yes,Female,35.0,1765.13095065095
+709,Mexico,No,Yes,Yes,No,Male,39.0,832.7622587878086
+710,Netherlands,Yes,Yes,Yes,No,Male,29.0,1099.1682066447474
+711,China,Yes,Yes,No,Yes,Female,15.0,2336.2791393070397_
+712,China,No,No,No,No,Female,48.0,1608.9012732249623
+713,Pakistan,No;,No,No,Yes,Male,106.0,823.5630513878517
+714,South Korea,Yes,Yes,No,No,Male,94.0,
+715,Ukraine,No,No,Yes,Yes,Male,81.0,1582.809103915784
+716,Sweden,No,No,Yes,Yes,Male,44.0,nan_
+717,Australia,Yes,No,Yes,Yes;,,53.0,1335.0663835236496
+718,Belgium,No,Yes,No,Yes,Male,72.0,1262.5276116469943
+719,Germany,Yes,Yes,Yes,Yes;,Female,55.0,1635.7008895745887
+720,Russian Federation,No,,No,Yes,Male,68.0,1618.7040179006337
+721,Peru,Yes,Yes_,Yes,Yes,Female,93.0,1723.142993005476
+722,Australia,Yes,No,Yes,No,Male_,58.0,1759.7929593386411
+723,Poland,Yes,Yes,Yes,Yes,Male,37.0,1082.974728097476
+724,India,No,No,nan;,Yes,Female,44.0,1171.033025047031
+725,United States,Yes,No,Yes,No,Male,,1264.3862575643202_
+726,,Yes,Yes,No,Yes,Male&,85.0,1519.5626445767236
+727,Austria,Yes,Yes,No,Yes,Male,74.0,1082.262906720483
+728,Canada,Yes,Yes,No,No,Male,30.0,1105.5432278775575
+729,Peru,Yes,No,Yes,No,Male;,57.0,1250.77875187739
+730,Brazil,Yes,No,No,No,Female,87.0,1478.7115404068886
+731,Costa Rica,Yes,Yes,Yes,No,Male,48.0,1874.0280451787303
+732,South Korea_,Yes,Yes,No,,Male,74.0,1117.396996231281
+733,Belgium,,No,No,Yes,Male,82.0,1406.6986387025931
+734,Chile,No,No,Yes,No,Female,25.0_,1387.533300944134
+735,,Yes,Yes,Yes,Yes,Male,46.0,1370.3333408779354
+736,Singapore,Yes_,No,Yes,Yes,Male,100.0,1042.8850397561446
+737,Nigeria,Yes,No,Yes,Yes,Male,96.0,1599.7858287599443
+738,Indonesia,No,No,Yes,Yes,Female,104.0&,1122.1370591024745
+739,Peru,No,Yes,No,Yes&,Male,78.0,1652.4514491557695
+740,Ireland,Yes,No,No,No,Male,31.0,1227.4502446291765
+741,Brazil,No,Yes,No&,Yes,Female,35.0,
+742,France,No,No,,No,Female,76.0,1669.890119504416
+743,Mexico,,No,Yes,No,Female,98.0,803.2329527257738
+744,Vietnam,No,Yes,No,No,Female,54.0,1623.5939834331555
+745,Italy,No,No,No,Yes,Male&,91.0,1273.2664875009134_
+746,China,Yes,Yes,Yes,Yes,Female,65.0,1830.7394498048297
+747,Colombia,No,No,No,Yes,Female,65.0,1357.9730132133557
+748,China,No,Yes,No,Yes,Male,30.0,798.481478174534
+749,Italy,No,Yes,Yes,No,Male,49.0,1525.519532491644
+750,Vietnam,Yes,Yes,Yes,No,Female,29.0,1250.7606770440304
+751,China,No,Yes,No,,Female,52.0,1272.8569673200504
+752,Colombia,,Yes,Yes,No,Male;,100.0,1589.5435533047541
+753,Philippines,Yes,Yes,Yes,,Male,91.0,1369.917089269361
+754,Germany,No,No,No,Yes,Male,112.0,1119.60851321123
+755,China,,No,No,Yes,Female,68.0,1719.5598793760366
+756,Vietnam,No,No,Yes,No&,Male,81.0,1427.457294930642
+757,United States,No,No,Yes,Yes,Female;,88.0,1510.5610358284944
+758,Canada,No,Yes,Yes;,,Female,102.0,1594.2026499089286
+759,New Zealand,No,Yes,No,Yes,,92.0,1686.6317066085726
+760,South Africa,Yes_,No,Yes,No,Male,41.0,1324.6000699702347
+761,Canada,Yes,No,Yes,No,Male,94.0,1178.6526039350333
+762,Singapore,,Yes,,Yes,Male,13.0,1796.5522836013154
+763,Pakistan_,No,No,No,Yes,Female,107.0,1626.151220758505;
+764,Italy,Yes,,Yes,No&,Female,102.0,1287.6625257428473
+765,Singapore,,Yes,Yes,,Male,47.0&,2022.797490388426
+766,United Kingdom,No,No,No,Yes,Male,62.0,1777.1197696918628
+767,China,Yes,No,No,,Female,81.0,1559.1722953081978
+768,Ukraine,Yes,Yes&,No,No,Male,,979.9741303213677
+769,Costa Rica,Yes,No,No,No,Male,51.0,1237.1560011762303
+770,Australia,No,Yes,Yes,No,Female,105.0,2029.429344415562
+771,Netherlands,No,Yes,No,No,Male,15.0,1278.0069587393978
+772,Poland,No,Yes,No,Yes,Male,58.0,1534.5480817820155
+773,Singapore,No,,Yes,Yes,Male,105.0,813.3970262014867
+774,Ireland,Yes&,No,Yes,Yes,Female,17.0,1162.9580593165604
+775,France,Yes,No,No,No,Female,20.0,1272.2177081867956
+776,Spain,Yes,No,Yes,No,Female,25.0,1209.5538709531236
+777,Vietnam,No,Yes,No,Yes,Female,24.0,1542.9445546876993
+778,Ireland,Yes,Yes,Yes,Yes,Female,37.0,2028.0195407619133
+779,Sweden,Yes_,Yes,No,No,Female,69.0,1218.7318209866662
+780,Poland,No,,Yes,No,Female,81.0,1587.9771283594275
+781,Philippines,No,Yes,No,No,Male,80.0,1574.892732077737
+782,South Africa,No,,Yes,Yes,Male,79.0,1992.8857224563003
+783,,No,Yes,Yes,No,Female,38.0,1833.545917931102
+784,Spain,Yes,Yes,No,Yes,Male,67.0,1325.8799510038946
+785,Russian Federation,Yes,No,No;,No,Male_,88.0_,1567.6846569123834
+786,Austria,No,Yes,Yes,Yes,Female,13.0,1371.254554582104
+787,Ireland,No,Yes,No,No,Male,85.0,1266.4772101550257
+788,Brazil,Yes,Yes,Yes,Yes,Male,48.0,1506.2371095212434
+789,Turkey,No,No,No,Yes,Female,64.0,1355.7921287502834
+790,South Korea,Yes_,Yes,,No,Female,,1641.9445312511098
+791,Poland,Yes,Yes,Yes,No,Male,46.0,1482.9100844877057
+792,France,No,No,No,No,Male,94.0,1478.5170577389729
+793,Turkey,No,No,Yes,No,Female,57.0,1777.3368152951164
+794,Belgium,No,Yes,No,Yes,Male,98.0,1880.7473719959971
+795,China,No,No,Yes,No,Female,64.0,1599.0046990694107
+796,Canada,No,Yes,Yes,Yes,Male,22.0,1008.5520659984415
+797,United States,No,Yes_,nan&,,Male,66.0,2024.7596248066861
+798,South Africa,No,Yes,Yes,No,Male,111.0,1527.387116449065
+799,Spain,No,Yes,No,Yes,Male,103.0,1889.4484762784214
+800,Canada,Yes,No,Yes,Yes,Male,44.0,774.1082179550662
+801,Costa Rica,Yes,No,Yes,No,Male,26.0,1545.3753903201944
+802,Pakistan,Yes,Yes,Yes,Yes,Male,93.0&,1532.8750903827672
+803,Chile,No,No,No,,Female,31.0,1339.0855427658817
+804,Italy;,No,Yes,Yes,Yes,Male,24.0,1228.855730076124
+805,Norway,Yes,No,No,Yes,Female,79.0&,1271.3439410084293
+806,Pakistan,No,Yes,Yes,No,Male,20.0,1733.6677158751193
+807,Netherlands,Yes,Yes,No,No,,107.0,1191.5372291278777
+808,Costa Rica,Yes,Yes_,Yes,No,Female,94.0,1453.0509089696811
+809,New Zealand,Yes,No,No,Yes,Male,42.0,1872.9901547089987;
+810,Australia_,No,No,Yes,No,Female;,100.0,652.7080800918196
+811,Brazil,,Yes;,No,Yes,Female,88.0,1577.2477484614915
+812,Indonesia,Yes,No,Yes,Yes,Female,93.0,2433.2503322749335
+813,Australia,,No,No,Yes,Female,70.0,1042.8235377330675
+814,Pakistan,No,No,No,Yes,Female,38.0,839.3963193421332
+815,Poland,No,Yes,Yes,Yes,Male,60.0,983.3214601533134
+816,Costa Rica,Yes,Yes,Yes,No,Male,27.0,1613.3889660876157
+817,Mexico,Yes,Yes,Yes,No,Female,105.0,1304.4301447499006
+818,Spain,Yes,Yes,No,Yes,Female,41.0,1874.3099666409153
+819,Canada,Yes,Yes,Yes&,Yes,Female,52.0,2147.2770361879066
+820,Ireland,No,No,No,Yes,Female,20.0,843.8875046809654
+821,South Korea,Yes,No&,No,No,Male,18.0,1258.3737481934952
+822,Belgium&,No,No,Yes,No,Male,106.0,1799.9216171819012
+823,India,No,No,No,Yes,Male,22.0,1350.848374130298&
+824,Austria,No,Yes,Yes,Yes,Male,39.0,1732.44092861466
+825,South Africa,No,No,Yes,No,Female,86.0,1422.2906024148504
+826,Peru,Yes,No,No,Yes,Male,50.0;,2030.565245057992
+827,Peru,Yes,Yes,Yes,No,Male,97.0,1512.990137639446
+828,Turkey,No,No,Yes,No,Male,23.0,1507.0519884124244
+829,New Zealand,Yes,No,Yes,Yes,Female,45.0,1359.9683112873001
+830,Colombia,No;,No,,No;,Male,80.0,1574.1993142402002
+831,South Africa,,Yes,Yes,Yes,Female,26.0,1747.236548352164
+832,Sweden,No,No,No,Yes,Male,,1257.2935769706567&
+833,India,No,No,No,Yes,Male,23.0,1626.380251517946
+834,Nigeria,No,Yes,Yes,Yes,Female,75.0,1504.9730165421192
+835,Peru,No,Yes,No,Yes,Female,71.0,1846.6495892862376
+836,Peru,No,No,,No,Male_,93.0,1546.447842149815
+837,,No,nan_,No,Yes,Male,93.0,1122.9315902479889
+838,Costa Rica,No,Yes,Yes,Yes,Female,34.0,2107.32707815748
+839,South Korea,No,No,No,No,Male,87.0,1481.9134010463633
+840,Canada,No,No,Yes,Yes,Male,79.0,800.7406095662069;
+841,France,Yes,No,No,No,Male,84.0&,1585.7861672878664
+842,South Korea,Yes,No,No,,Male,31.0,1288.5027932536261
+843,,No,Yes,No,Yes;,Male,21.0,
+844,China,No,No,No,No,Female,78.0,1660.8509753053113
+845,Poland,No,No,No,No,Male,30.0,2120.605896359369
+846,Chile,No,Yes,Yes,No,,53.0,679.8305195568322
+847,Singapore,Yes,Yes,Yes,,Female&,86.0,1458.4486347995937
+848,Indonesia,Yes,Yes,No,Yes,Female,57.0,1202.2591520423016
+849,Spain,No,No,No,No,Female,49.0,1765.420876391843
+850,South Africa,Yes,Yes,No,No,Male,82.0,753.6101129456564
+851,United Kingdom,Yes,No,No,Yes,,97.0,1254.193265753589
+852,Pakistan,No,Yes,No,No,Female,87.0,1768.7616243581633
+853,France,No,Yes_,Yes,Yes,Female,28.0,1794.6420473882447
+854,Austria,Yes,Yes,No,Yes,Male,90.0,1435.8963453360873
+855,Singapore,No,Yes,Yes,,Male,,1487.2937358054417
+856,Spain,No,Yes,No,No,Female,45.0,1593.4971766964059
+857,Canada,Yes,No,No,Yes,Female,101.0_,1647.9751210818913
+858,South Korea,No,Yes,Yes,No,Male,82.0,1578.2697070452823
+859,South Africa,Yes,No,Yes,No,Male,94.0,1657.926104515527
+860,Belgium,Yes,Yes,Yes,No,Male,42.0,1077.6483802718753
+861,Mexico,No_,Yes,No,Yes,Female,57.0,
+862,Austria,Yes,Yes,No;,No,Male,89.0,1790.5142515599275
+863,United States,Yes,Yes,No,Yes,Male,46.0,1174.8591157030878
+864,Costa Rica,No,No,No,Yes,Female,14.0,1674.3057556096942
+865,Costa Rica,No,Yes,No,Yes,Female,31.0,1002.1410163830553
+866,Canada,No,Yes,Yes,Yes,Male,62.0,1671.8646135500296
+867,Costa Rica,No,No,No,Yes,Female,31.0,956.6332374813371
+868,,No,Yes,Yes,Yes,Female,106.0,1991.330820837136
+869,Mexico,No,nan;,No,No,Female,107.0,1407.1317688232803
+870,Costa Rica,No,No,Yes,Yes,Male,80.0,1254.214806432199
+871,Sweden,Yes;,No,Yes,Yes,Male;,18.0,1564.826479633346
+872,Brazil,Yes,Yes,No,Yes,Male,28.0,836.7308690920216
+873,Vietnam&,No,No,Yes,No&,Female,41.0,1486.4103696232896
+874,Canada,No,No,No,No,Male,,1399.1003643989259
+875,Turkey,Yes;,Yes,No,Yes,Female,18.0,1824.0869174010625
+876,Indonesia,No,No,Yes,No,Female,45.0,1792.4773601182646
+877,Pakistan,No,Yes,No,No,Male,33.0,910.7308261417797
+878,United States,No,Yes,Yes,Yes,Male,77.0,1429.935225850661
+879,Brazil,,No,No,No,Female,18.0,1016.2761589659374
+880,New Zealand,Yes,Yes,Yes,Yes,Male,55.0,766.6259800933632
+881,Colombia,Yes,Yes,No,No,Male,59.0,1618.3098203938814
+882,Chile,No,No,No,Yes,Female,63.0,1490.0710592196103
+883,Ireland,Yes,No,Yes,No,Male,93.0&,1447.813207627031
+884,France,Yes,Yes,Yes,No,Male,99.0,1010.1229164851294
+885,United States,Yes,Yes,Yes,Yes,Female,100.0,1330.4514924846317
+886,Russian Federation,No,Yes,Yes,No,Female&,58.0,1337.8745360320866
+887,Costa Rica,Yes,Yes,Yes,Yes;,Female;,37.0,753.5067702251122
+888,India,No,No,,No,Male,,1197.060178305493
+889,Singapore,No,Yes,Yes,No,Female;,85.0,2124.1610770896737
+890,South Africa,No,Yes,No,No,Male,30.0,1186.5587258334558
+891,Ukraine,Yes,Yes&,Yes,No,Female,22.0,1174.6268846194496
+892,,Yes,Yes,No,Yes,Female,91.0,nan&
+893,Costa Rica,Yes,Yes,Yes;,No,Male,84.0,1701.5099346091179
+894,Netherlands,No,Yes,Yes,No,Female,,948.1402719162095
+895,Philippines,No,No,Yes&,Yes,Female,14.0,1605.7428135056314
+896,China;,Yes_,No,No&,Yes,Male,36.0,1251.0597801506865
+897,Indonesia,No,No,No,No,,,756.9206751341916
+898,Chile,No,No,Yes,No,Male,,1512.6830440507213
+899,Canada,No,No,No,Yes,Male,38.0,1127.9864681232555
+900,Mexico,No,No,,No,Male,110.0,1170.5969596473915
+901,South Korea,,No,No,Yes;,Male,72.0,1937.8563915527823
+902,United States,No,Yes,No,,Male,41.0,1685.5203285830034
+903,Netherlands,No,Yes,No,No,Male,77.0,1379.9152380394673
+904,Singapore,Yes,No,No,No,Female,78.0,1182.3187483373438
+905,Sweden,No,No,No,,Female,105.0,1941.4862751631601
+906,India,Yes,No,No,Yes,Female,46.0,1540.757539939091
+907,Spain,Yes,No,Yes,No,,,1525.4874774195437
+908,Pakistan,Yes,Yes,Yes,,Female,91.0,853.5944404931292
+909,,No&,Yes,Yes,No,Male,67.0,1812.6796108922367
+910,Brazil,Yes,Yes,Yes,No,,,1941.9894979694268
+911,South Korea,No,Yes,Yes,,Female,67.0,1964.193236260258
+912,Turkey,Yes,Yes,No,Yes,Male,91.0,715.3835546912254
+913,Pakistan,Yes,Yes,No,Yes,,67.0,1513.7440987160587
+914,Italy,Yes,No,No&,No,Female,101.0,1257.7340196612513
+915,South Africa,No,Yes,,No,Female,43.0,1373.1396770321576
+916,South Africa,Yes,Yes,Yes,No,Male,37.0,1223.210353517789
+917,New Zealand,Yes,Yes,Yes,Yes,Female,27.0,1428.273072592792&
+918,Austria,Yes,Yes,Yes,No,Female,108.0,1342.6838475896761
+919,France;,No,Yes,No,,Male_,92.0,1132.8246044281436
+920,South Korea,Yes,No,Yes,No,Female,94.0;,2088.768272493873
+921,Poland,No,Yes,No,Yes,Female,100.0,1906.814101517758
+922,Spain,No,Yes,Yes,Yes,Female,25.0,1102.974501472846
+923,Netherlands,Yes,No,Yes,No_,Male,33.0,1975.16247463542
+924,Ireland,Yes,No,Yes,No,Female,22.0,1015.3031718301311
+925,South Korea,No,No,Yes,No,Female,72.0,1360.8116085809706
+926,Chile,Yes,Yes,No,Yes,Female,20.0,1146.4019775188008
+927,Sweden,No,No,Yes,Yes,Male,88.0,929.509414762413
+928,Russian Federation,Yes,No,Yes,Yes,Male&,105.0,1807.0590186139182
+929,Pakistan,No,Yes,Yes,Yes,Male,99.0,1530.4804127097625
+930,Peru,Yes,,Yes,Yes,Female,59.0,1465.5681872945618
+931,Singapore,Yes,No,No,No,Female,76.0,1149.0778601735365
+932,South Africa,Yes,Yes,No,Yes,Female,56.0,1235.1343470046627
+933,United Kingdom,Yes,Yes,,No,Male,50.0,1004.1443994149886
+934,Germany,Yes,No,Yes,No,Female,22.0,1050.3333716717434
+935,New Zealand,No,Yes,No,Yes,Female,74.0,1043.0393375467818
+936,Turkey,No,Yes,No,No,Female,17.0,1207.3577582041867
+937,,No,No,,Yes,Female,87.0,1790.185776646223
+938,Pakistan,Yes,Yes,,No,Female,64.0,1768.1071768786142_
+939,Ukraine,No;,No,Yes,Yes,Female,103.0,1426.4629683451149
+940,Nigeria,Yes,No,Yes,Yes,,70.0,1263.8661041545317
+941,Netherlands,Yes,No,No,Yes,Male,27.0,1595.8928908899459
+942,,Yes,No,Yes,Yes,Female,97.0,951.5443779737352&
+943,Nigeria,Yes,No,Yes,Yes,Female,74.0,1082.2979919677343
+944,,No,Yes,No,Yes,Female,63.0,1226.835013219887
+945,Canada,No,Yes;,Yes,Yes,Male,59.0,898.6035536435054
+946,Singapore,No,Yes,Yes,Yes,Female,63.0,1420.3603750967707_
+947,Ireland,No,Yes,No,Yes;,Male,81.0,1043.2283497039484
+948,Norway,Yes,Yes,No,Yes,Male,49.0,856.8788208214654
+949,South Africa,Yes&,Yes,Yes,Yes,Female,25.0,865.8678699186871
+950,India,Yes,No,Yes,Yes,Female,100.0,1371.197039322035
+951,Brazil,No,No,No,Yes,Male,26.0,1483.4346749729355
+952,Chile,Yes,Yes,No,No,Male,66.0,1792.9852014802339
+953,Singapore,No,No,Yes,Yes,Male,44.0,1142.6761676364154
+954,Ukraine,No,Yes,Yes,No,Female,102.0,1285.6218721666949
+955,United Kingdom,No;,Yes,Yes,Yes,Male,34.0,1700.873738779963
+956,Poland,Yes,No,Yes,No,,112.0,1517.3212250418344
+957,Chile,Yes,No,No,Yes,Female,106.0,971.0453022547553
+958,New Zealand,No,Yes,No,No,Male,46.0,958.191633771627
+959,Turkey,Yes,No,Yes,No,,43.0,1092.5676125956998&
+960,Austria,No,Yes,Yes,No,Male,51.0,nan_
+961,Poland,Yes,Yes,Yes,Yes,,53.0,1257.6660229430674
+962,Indonesia,No,No,No,No,,77.0,
+963,Chile,Yes,Yes,Yes,Yes,Female,99.0,2042.1666186525053
+964,Australia,No,No,No,No,Male,26.0,1268.1590599244018
+965,South Africa,No,Yes,No,No,Female,31.0,1128.2640763328363
+966,Germany,,No,No,Yes,Female,56.0,1113.0156583298574
+967,Singapore,Yes_,No,No,No,Female,110.0,1207.9379328019122
+968,Brazil,Yes,No,Yes,No,Female,48.0;,1199.8439211203113
+969,Spain,No,No,No,No_,Male,49.0,1922.923606499313
+970,South Korea,No,Yes,No,Yes,Female,37.0,1735.6330937414932
+971,Poland,No,Yes&,Yes,Yes,Female,,1643.7730910088037
+972,France,No,Yes,,Yes,Female,44.0&,1762.2699530846833
+973,Chile,No,No,No,Yes,Female,35.0,1500.1729600547933
+974,Sweden,No,No,Yes,Yes,Female,106.0,1233.0872898478112
+975,Brazil;,Yes,Yes,No,No,Male,35.0,884.7099124386921
+976,New Zealand,No,Yes,No,Yes,Female,18.0,877.9442121477828
+977,Italy,No,No,No,Yes,Female,78.0,1602.0113288358136
+978,United Kingdom,No,No,Yes,Yes,Male,31.0,1533.6303872919593
+979,Vietnam,No;,No,No,Yes,Female,61.0,779.92964745689
+980,Netherlands,Yes,No,No,No,Female,102.0,1404.869293721727
+981,,No,Yes,Yes,Yes,Male,70.0,1455.5537505630552
+982,France,Yes,Yes,Yes,No,Male,89.0,1868.6294467655175
+983,Turkey,No,No,No,No,Male,80.0,1293.1210320831055
+984,Ireland,Yes,Yes,Yes,No,Male,99.0,1109.8413043945257
+985,Vietnam,Yes,No;,No,No,Female,110.0,2103.559708775635
+986,Spain,Yes,No,No,No,Male,110.0,1033.043653608298
+987,Chile,No,No,No,Yes,Male,52.0,1053.244952819026
+988,South Korea,Yes,No,Yes,No,Female,88.0,1455.2186872137108
+989,Australia,Yes,No,No,No,Male,33.0_,1476.7950272429978
+990,Ukraine,Yes,Yes,No,Yes,Female,18.0,1951.3156202750604
+991,Colombia_,Yes,Yes,No,No,,61.0,1114.5128695566111
+992,South Africa,Yes,Yes,Yes,Yes,Male,55.0,1467.4113783567996
+993,France_,No,No,Yes,No,Male,20.0,1932.4123835901833
+994,Ukraine,Yes,Yes,No,Yes,Male,97.0,1254.8854932912986
+995,Ireland,No,No,No,No,Male,,1457.1643210691293
+996,Belgium,Yes,No,No,No,Female,29.0,1218.6126566420128
+997,France_,Yes,No,Yes,No,Male,81.0,1185.7160320514186
+998,Costa Rica,Yes,Yes,Yes,No,Male,46.0,1182.3844788608633
+999,Turkey,No,Yes,Yes,Yes,Female;,42.0,1600.2700565657433
+1000,United States,No,No,Yes,Yes,,17.0,1511.107993717804
+1001,Peru,Yes,Yes,Yes,Yes,Male;,78.0,1251.4279917961028
+1002,Mexico,Yes,Yes,Yes,No,Female,33.0,2083.4113872192856
+1003,France,Yes,No,Yes,No;,Male,56.0,
+1004,Netherlands,Yes,No,Yes,No,Male,23.0,1283.7264281359655
+1005,Germany,No,Yes,Yes,No,Male,101.0,1362.3030384652093
+1006,Australia,Yes,Yes,Yes,No,Female,54.0,708.2401915764441
+1007,New Zealand,No,Yes,Yes,No,Male,30.0,1309.1871102701787
+1008,Turkey,Yes,No,No,No,Male,75.0,1627.051004252215
+1009,Germany,Yes,Yes,Yes,No,Female,48.0,813.7939435946631
+1010,United Kingdom;,Yes,Yes,No,Yes,Male,40.0,1277.8744152937218
+1011,Germany,No,No,Yes,No,Male,88.0,1045.7462655207087
+1012,Canada,No,No,No,No,Female,,1520.3590106356237
+1013,Spain,No,Yes,No,No,Female,14.0,1901.6200411553882
+1014,Russian Federation,No,Yes,Yes,Yes,Male&,44.0,1224.1502720598828
+1015,Indonesia,Yes,No,,No_,Female,92.0,1432.4032642443005&
+1016,Belgium,No,No,Yes,No,Male,60.0,1345.115456866163
+1017,Turkey,Yes,Yes,Yes_,No,Female,65.0,1590.0870359357657
+1018,Sweden_,nan&,No,Yes,No,Female,106.0,1446.2753369115298
+1019,Mexico,Yes,Yes,No,,Male,64.0,1717.6613298259222
+1020,Indonesia,No,No,No,No,Female,28.0,1028.9555028447753
+1021,,Yes,No,nan&,,Female,22.0,
+1022,South Korea,No,Yes,No,No,Male,41.0;,1582.8952298352865
+1023,Poland,No,Yes,Yes,No,Male,86.0,1521.4384729597678
+1024,Pakistan,No,Yes,No,Yes,Male,15.0,1694.624534435341
+1025,Russian Federation,No,Yes,Yes,No,Female,42.0,1001.7166922491101
+1026,,No,Yes,,No,Female,37.0,1189.9067107042263;
+1027,India,Yes,No;,No,Yes;,Female,112.0,1763.6905546037333
+1028,Philippines,No,Yes,Yes,Yes,Female_,51.0,1167.406236698456
+1029,Pakistan,Yes,Yes,No,No,Male,14.0,1527.2390221406463
+1030,United States,No,Yes,No,Yes,Male,24.0,1422.1629421361272
+1031,Colombia,Yes,No,nan_,No;,Female,88.0,1299.4590402881413
+1032,Sweden,Yes,No,No,Yes,Female,86.0,1390.5578438923944
+1033,India,No,No,No,No,Male,105.0,1215.2860314528998
+1034,Poland,Yes,No,No,Yes,Female,39.0,1645.6704270246896
+1035,Turkey,,Yes,No,Yes,Female,110.0,972.1139069993758
+1036,Germany,No,Yes,No,No,Female,100.0,1135.1640593895484
+1037,Vietnam,No,Yes,Yes,Yes,Male;,33.0,1290.0383235613335
+1038,nan&,Yes,Yes,No,No,Female,68.0,1569.723001377632
+1039,Brazil,,Yes,No,Yes,Female,86.0,1592.4876460871435
+1040,New Zealand,No,Yes,Yes,Yes,Male,52.0,1704.2776356629581
+1041,Poland,No,Yes,Yes,Yes,Male,60.0,1601.1776619974607
+1042,Nigeria,Yes,Yes,No,No,Female,48.0,665.3930717283758
+1043,United Kingdom,Yes;,No,,Yes,Female,54.0,
+1044,India,No,No&,No,No,,105.0,1340.226668812684
+1045,United States,Yes,No&,Yes&,Yes,Male,18.0,845.0154523305312
+1046,United Kingdom,Yes,No,No,No,Male,68.0,1794.0808787360377
+1047,Pakistan,No,No,No,No,Male,74.0,
+1048,Vietnam,Yes,Yes,No,No&,Male,29.0,1315.7497452824132
+1049,South Africa,No,,No,No,Female,27.0,1281.361221571523
+1050,Norway,Yes,Yes,No,Yes,Male,,1570.7979187921123
+1051,Chile,No,No,Yes,No,Female,34.0,1896.5800918943694
+1052,Mexico,No,Yes,No,,Male,107.0,1305.7722080015146
+1053,,Yes,No,Yes,Yes,Male,28.0,1534.702001107427
+1054,,,Yes,Yes,No,,73.0,828.6426358189492
+1055,Peru,Yes,Yes,Yes,Yes,Male,87.0,1284.8458486781851
+1056,Chile,No,No,No,No,,55.0,1571.897527510934
+1057,,No,No,Yes_,Yes,Female,67.0,1215.1639682450577
+1058,Pakistan,No,No;,No,No,,14.0,1492.0629793712155
+1059,India,No,No,No,Yes,Male,57.0,1135.061760867405
+1060,Mexico,No,No,Yes,Yes,Female,76.0,1465.260180958399&
+1061,Ukraine,Yes,Yes,No,Yes,Female,63.0,
+1062,Pakistan,Yes,Yes,,Yes,Female,50.0,1895.3433308230028
+1063,Austria_,No,No,No,Yes,Female,43.0,1739.7288555139362
+1064,,Yes,Yes,Yes,No,Male,15.0,1964.904947856592
+1065,France,No,Yes,No,No,Male,30.0,1617.425238583792
+1066,Colombia,No_,Yes,Yes,No,Male,101.0,1416.270135610032
+1067,Canada,Yes,Yes,No,No,Female,98.0,1103.5582531393272
+1068,China,No,Yes,,Yes,Male,93.0,1437.8796488563387
+1069,Singapore,No,Yes,No,Yes,Female,33.0,1496.0984991650994
+1070,Indonesia,Yes,Yes,No,Yes,Female,32.0,1069.6579669099344
+1071,Philippines,No,Yes,No,Yes,Male,25.0,1355.9654028926093
+1072,Colombia,No,Yes,Yes,No,Female,20.0,1177.6659477980072
+1073,Spain,No,Yes,No,No,Male,44.0,1140.9537835552858
+1074,Vietnam,No,No,Yes,Yes,Female,92.0,791.3816918188663
+1075,Costa Rica,Yes,No,Yes,Yes,Female,52.0,1839.0455454498351
+1076,Peru,No,Yes,Yes_,Yes,Male,45.0,1089.9121186614743
+1077,Brazil,Yes,Yes,No,Yes,Male,95.0,1394.8423640978433
+1078,Poland,Yes,,No,No,Male,20.0;,1182.1264497308894
+1079,Pakistan,Yes,No,Yes,No,Female,91.0,863.0679115980062
+1080,Philippines,Yes,No,No,No,Female,109.0,1479.7099205094241
+1081,Singapore,No,No,Yes,No,Female,53.0,1007.2955257395745
+1082,South Korea,Yes,No,Yes,Yes,Male,37.0,1402.7031008324243
+1083,Peru,No,No,Yes,No,Male,88.0,960.2516420886171
+1084,India,No,No,No,No,Female,64.0,1520.4413791163415
+1085,Belgium,No,Yes,Yes,No,Female,95.0,1777.2011872987098
+1086,Australia;,Yes,Yes,No,No,Male,26.0,2010.1334475564058
+1087,Spain,No,Yes,Yes,Yes,Male,,1755.3439166121766
+1088,Poland,Yes,No;,No,Yes,Male,22.0,1555.445234221048
+1089,Poland,Yes,No,No,Yes,Male,108.0,1585.5836966784732
+1090,United States,No,Yes,No,Yes,Male,68.0,1912.8275044677953&
+1091,Ireland,Yes,Yes,Yes,No,Male,44.0,1209.9709020019716
+1092,Pakistan,No_,No,Yes,No,Female,42.0,1280.6413592022745
+1093,Costa Rica,Yes,Yes,No,Yes,Male,102.0,1523.897329544581
+1094,Peru,No,No,No,No,Male_,111.0,1998.0036029907355
+1095,United States,Yes,No,Yes,Yes_,Female,61.0,1310.3927007233913
+1096,China,No,No,No,Yes,,92.0,1359.9280184820218
+1097,Germany,Yes,Yes_,No,Yes,,82.0,1484.3866343785708
+1098,South Africa;,No,,Yes,Yes,,50.0,1573.7647633146562
+1099,India,Yes,Yes,Yes,Yes,Female,42.0&,1719.5331763238369
+1100,Austria,No,Yes,No,Yes,Male,27.0,
